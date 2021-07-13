@@ -1,5 +1,5 @@
-{
-  "user": {
+[
+ {
   "id": 1,
   "firstName": "Navalkumar",
   "lastName": "Karli"
@@ -19,4 +19,4 @@
   "firstName": "Naval",
   "lastName": "Karli"
 },
- }
+]
