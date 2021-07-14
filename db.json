@@ -2,16 +2,16 @@
  "users": [
    {
      "id": 1,
-     "firstName": "John",
-     "lastName": "Doe",
+     "firstName": "Navalkumar",
+     "lastName": "Karli",
      "active": true,
      "posts": 10,
      "messages": 50
    },
    {
      "id": 8,
-     "firstName": "Clay",
-     "lastName": "Chung",
+     "firstName": "Lavan",
+     "lastName": "Karli",
      "active": true,
      "posts": 8,
      "messages": 5
